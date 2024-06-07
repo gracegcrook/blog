@@ -399,7 +399,7 @@ img {
         }
 
         &:checked+div {
-            transform: scale(.5);
+            transform: scale(0);
 
             &:after {
                 transform: scale(2);
