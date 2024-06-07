@@ -400,7 +400,7 @@ img {
         }
 
         &:checked+div {
-            transform: scale(0.5);
+            // transform: scale(0.5);
 
             &:after {
                 transform: scale(2);
