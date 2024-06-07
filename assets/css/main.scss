@@ -380,9 +380,8 @@ img {
                 position: absolute;
                 left: 0;
                 top: 0;
-                // bottom: 10px;
+                bottom: 10px;
                 transition: background .5s ease;
-                visibility: hidden;
             }
 
             &:after {
@@ -396,6 +395,7 @@ img {
                 bottom: 10px;
                 transform: scale(0);
                 transition: all .5s ease;
+                visibility: hidden;
             }
         }
 
@@ -405,6 +405,7 @@ img {
             &:after {
                 transform: scale(2);
                 transition: transform .5s ease .15s;
+                visibility: hidden;
             }
         }
     }
