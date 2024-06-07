@@ -369,6 +369,7 @@ img {
             height: 30px;
             border-radius: 50%;
             position: relative;
+            bottom: 10px;
             transition: box-shadow .5s ease 0s, transform .5s ease .1s;
 
             &:before {
