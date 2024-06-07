@@ -27,7 +27,9 @@ LSVT BIG certified - Pending official certification upon graduation 4/2023
 
 **Dakota State University, Madison, SD — B.S. Exercise Science**
 * Fall 2016 - Spring 2020 
-* Summa Cum Laude - Lowry Scholar - Exercise Science Club President 2018-2020
+* Exercise Science, Club President 2018-2020
+* Lowry Scholar Recipient
+* Summa Cum Laude
 
 &nbsp;
 &nbsp;
