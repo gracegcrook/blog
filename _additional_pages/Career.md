@@ -20,12 +20,14 @@ LSVT BIG certified - Pending official certification upon graduation 4/2023
 
 ## EDUCATION
 
-**University of Mary, Bismarck, ND — Doctor of Physical Therapy**
+#### Doctor of Physical Therapy
+##### University of Mary, Bismarck, ND
 * Fall 2020 - Spring 2024
 
 &nbsp;
 
-**Dakota State University, Madison, SD — B.S. Exercise Science**
+#### B.S. Exercise Science
+##### Dakota State University, Madison, SD
 * Fall 2016 - Spring 2020 
 * Exercise Science, Club President 2018-2020
 * Lowry Scholar Recipient
@@ -36,13 +38,15 @@ LSVT BIG certified - Pending official certification upon graduation 4/2023
 
 ## EXPERIENCE
 
-**Performance Therapy, Idaho Falls, ID - Physical Therapist**
+#### Physical Therapist
+##### Performance Therapy, Idaho Falls, ID
 
 July 2023 - Current
 
 &nbsp;
 
-**Sanford Medical Center, Bismarck, ND — Room Service Assistant**
+#### Room Service Assistant
+##### Sanford Medical Center, Bismarck, ND
 
 September 2021 - September 2022
 
@@ -51,7 +55,8 @@ September 2021 - September 2022
 
 &nbsp;
 
-**Touchmark, Bismarck, ND — Personal Trainer**
+#### Personal Trainer
+##### Touchmark, Bismarck, ND
 
 October 2021 - April 2022
 
@@ -60,7 +65,8 @@ October 2021 - April 2022
 
 &nbsp;
 
-**Madison Community Center, Madison, SD — Personal Trainer**
+#### Personal Trainer
+##### Madison Community Center, Madison, SD
 
 May 2019 - May 2020
 
@@ -69,7 +75,8 @@ May 2019 - May 2020
 
 &nbsp;
 
-**Dakota State University, Madison, SD — HR Desk Assistant**
+#### HR Desk Assistant
+##### Dakota State University, Madison, SD
 
 May 2017 - May 2020
 
