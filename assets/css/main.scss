@@ -382,6 +382,7 @@ img {
                 top: 0;
                 // bottom: 10px;
                 transition: background .5s ease;
+                visibility: hidden;
             }
 
             &:after {
@@ -399,7 +400,7 @@ img {
         }
 
         &:checked+div {
-            transform: scale(0);
+            transform: scale(0.5);
 
             &:after {
                 transform: scale(2);
