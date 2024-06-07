@@ -4,10 +4,7 @@ layout: simple
 order: 2
 ---
 
-&nbsp;
-&nbsp;
-
-## CERTIFICATIONS
+### CERTIFICATIONS
 
 NSCA Certified Strength & Conditioning Specialist (CSCS) - Exp: 12/2023
 
@@ -16,15 +13,12 @@ American Heart Association Basic Life Support Provider (CPR/AED) - Exp: 04/2024
 LSVT BIG certified - Pending official certification upon graduation 4/2023
 
 &nbsp;
-&nbsp;
 
-## EDUCATION
+### EDUCATION
 
 #### Doctor of Physical Therapy
 ##### University of Mary, Bismarck, ND
 * Fall 2020 - Spring 2024
-
-&nbsp;
 
 #### B.S. Exercise Science
 ##### Dakota State University, Madison, SD
@@ -34,16 +28,13 @@ LSVT BIG certified - Pending official certification upon graduation 4/2023
 * Summa Cum Laude
 
 &nbsp;
-&nbsp;
 
-## EXPERIENCE
+### EXPERIENCE
 
 #### Physical Therapist
 ##### Performance Therapy, Idaho Falls, ID
 
 July 2023 - Current
-
-&nbsp;
 
 #### Room Service Assistant
 ##### Sanford Medical Center, Bismarck, ND
@@ -53,8 +44,6 @@ September 2021 - September 2022
 * Performs a variety of duties involved with food service for patients not limited to verifying meal orders meet diet parameters, setting up meal trays for delivery, and delivering meals to patients
 * Communicates effectively, timely, and often with nursing staff, nutrition techs, dietitians, and call center staff
 
-&nbsp;
-
 #### Personal Trainer
 ##### Touchmark, Bismarck, ND
 
@@ -63,8 +52,6 @@ October 2021 - April 2022
 * Planned and instructed personal training sessions and group fitness classes specifically for individuals of the >65 years old population
 * Administered fitness equipment orientation
 
-&nbsp;
-
 #### Personal Trainer
 ##### Madison Community Center, Madison, SD
 
@@ -72,8 +59,6 @@ May 2019 - May 2020
 
 * Trained individual clients of various ages and abilities to reach their respective fitness goals
 * Group fitness instructor who planned 45-minute classes 3-4x per week
-
-&nbsp;
 
 #### HR Desk Assistant
 ##### Dakota State University, Madison, SD
