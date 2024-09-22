@@ -1,4 +1,4 @@
-title: Grace Crook, DPT #Your awesome title
+title: Grace Crook, PT, DPT, CSCS #Your awesome title
 email: blog@gracecrook.com
 description: > # this means to ignore newlines until "baseurl"
   This is my personal blog for discussing athletic training,
@@ -19,9 +19,9 @@ cusdis:
     app_id: #your cusdis app_id
 
 user:
-  name: Grace Crook, DPT
+  name: Grace Crook, PT, DPT, CSCS
   pic: /assets/img/profile.jpg
-  picAlt: "Grace Crook, DPT"
+  picAlt: "Grace Crook, PT, DPT, CSCS"
   job: Physical Therapy
   aboutme: true # comment this out if you don't need the 'about' page.
 
