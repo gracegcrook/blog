@@ -4,10 +4,14 @@ layout: simple
 order: 1
 ---
 
-Grace’s upbringing took place in northern California with her most recent residence in rural South Dakota. In 2020, she completed her Bachelor of Science in Exercise Science at Dakota State University, acquiring a strong background in exercise programming.
+Hello :)
 
-Throughout her undergraduate years, Grace worked as a personal trainer, aiding clients of various ages and fitness levels in reaching their goals. This experience solidified her interest in physical therapy, leading her to pursue a Doctorate in Physical Therapy at the University of Mary.
- 
-Grace is a certified strength and conditioning specialist (CSCS) and LSVT BIG certified. She enjoys running, working out, spending time with friends and family, and baking.
+I’m Grace. Welcome to my blog! I am a physical therapist (DPT) and a certified strength and conditioning specialist (CSCS) who likes to exercise, bake, eat good food, go on drives, and hang with my family and friends.
 
-Looking forward, Grace is excited to begin her career as a physical therapist and serve the people of the Idaho Falls area. Grace is committed to helping individuals of all ages and backgrounds achieve their physical goals.
+Since I was in my early teens, I have enjoyed reading blogs. Some of the first ones I remember reading were https://hungryrunnergirl.com/
+https://fitnessista.com/
+And Sweet Miles (no longer running but occasionally posts @ingles_outside on Instagram now)
+
+When I started physical therapy school I thought it would be the perfect time to document my life and finally start blogging. I knew I was not ready for a blog page, instead, I decided to work through an Instagram account where I could do “short form” blogging. It was a good idea at the start but quickly became hard to balance going to school full time while also working a part time job.
+
+Now that I’ve graduated and started working, I finally have a little bit more of a consistent schedule. My plan on to blog primary around fitness, health, and things I’m learning as a PT. Hope you enjoy tagging along!
