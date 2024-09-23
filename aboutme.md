@@ -15,4 +15,4 @@ Since I was in my early teens, I have enjoyed reading blogs. Some of the first o
 
 When I started physical therapy school I thought it would be the perfect time to document my life and finally start blogging. I knew I was not ready for a blog page, instead, I decided to work through an Instagram account where I could do “short form” blogging. It was a good idea at the start but quickly became hard to balance going to school full time while also working a part time job.
 
-Now that I’ve graduated and started working, I finally have a little bit more of a consistent schedule. My plan on to blog primary around fitness, health, and things I’m learning as a PT. Hope you enjoy tagging along!
+Now that I’ve graduated and started working, I finally have a little bit more of a consistent schedule. My plan is to blog primary around fitness, health, and things I’m learning as a PT. Hope you enjoy tagging along!
