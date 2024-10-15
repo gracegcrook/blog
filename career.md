@@ -6,7 +6,7 @@ order: 2
 
 ### CERTIFICATIONS
 
-NSCA Certified Strength & Conditioning Specialist (CSCS) - Exp: 12/2026
+NSCA Certified Strength & Conditioning Specialist (CSCS)
 
 LSVT BIG certified
 
