@@ -19,7 +19,7 @@ LSVT BIG certified
 
 #### B.S. Exercise Science
 ##### Dakota State University, Madison, SD
-* Exercise Science, Club President
+* Exercise Science Club President
 * Lowry Scholar Recipient
 * Summa Cum Laude
 
