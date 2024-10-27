@@ -11,22 +11,24 @@ One big takeaway to address running gait is to first change cadence.  Cadence, f
 
 
 In simple terms increasing cadence:
-•	Reduces heel to center of mass (COM) distance, which addresses overstriding
-•	Reduces COM vertical displacement, which addresses excessive bounce
-•	Increases lower extremity stiffness, which in turn addresses excessive compliance
+
+*	Reduces heel to center of mass (COM) distance, which addresses overstriding
+*	Reduces COM vertical displacement, which addresses excessive bounce
+*	Increases lower extremity stiffness, which in turn addresses excessive compliance
 
 Research shows 
-•	15-27% decrease in negative work performed by knee per kilometer (5-10% increase step rate)^1,2
-•	9-12% decrease in patellofemoral joint kinetics per kilometer (10% increased step rate)^3
-•	Increased gluteal activation during late swing w/increased step rate with decrease glute load in stance phase^4
+
+* 15-27% decrease in negative work performed by knee per kilometer (5-10% increase step rate)^1,2
+* 9-12% decrease in patellofemoral joint kinetics per kilometer (10% increased step rate)^3
+* Increased gluteal activation during late swing w/increased step rate with decrease glute load in stance phase^4
 
 One statistic that was especially interesting to me was that just an increase of 1step/min for cadence was associated with 5% decreased risk of a bone stress injury (BSI)!^5
 
 
 Another great reminder was to be mindful of what you are rehabbing and remember proper loading for each area.  The example for this topic was that hills have an inverse effect on the knee compared to the achilles load.^6
 
-•	With downhill running: patellofemoral stress is high, while achilles stress is low
-•	With uphill running: patellofemoral stress is low, while achilles stress is high
+* With downhill running: patellofemoral stress is high, while achilles stress is low
+* With uphill running: patellofemoral stress is low, while achilles stress is high
 
 **Know what you are rehabbing and make sure to apply proper loading**
 
@@ -34,16 +36,15 @@ Along with these nuggets of wisdom, the topic of rehabbing after a BSI and loadi
 
 *Running does not build a healthy skeleton*
 
-•	Need heavy squatting (fast and heavy) for bone health^7
-•	Load the lumbar spine with barbell back squats 
-•	Make sure to be fueling appropriately 
+* Need heavy squatting (fast and heavy) for bone health^7
+* Load the lumbar spine with barbell back squats 
+* Make sure to be fueling appropriately 
 
 **You can’t out-jump or run under-fueling**
 
 In one of the discussion panels there were also several articles discussed on how important carbohydrates are for bone remodeling.  Usually when we think of remodeling muscle or bone we default to protein, however strong cases for increased carbohydrates at the same calorie intake are becoming more apparent in research.^8
 
 So how can a running conference apply to any of my non-running patients?  I was able to have the opportunity to discuss with one of my non-runner patients this week regarding her osteopenia diagnosis and share with her the research regarding lifting heavy, proper nutrition, and point her to the direction of current practice guidelines^9.  She told me how her medical doctors have been managing the hormone and nutrient deficits aspect of her care, but no one had specifically talked her through how to go about physical activity and proper heavy loading for bone health.  I am grateful to have recently been exposed to topics regarding bone health which allowed me to give her the opportunity to feel confident in her ability to go about physical activity and overall better her health.  My time at the running summit was well worth it.
-
 
 
 References
