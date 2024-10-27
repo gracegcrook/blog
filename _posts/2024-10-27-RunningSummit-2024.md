@@ -46,6 +46,7 @@ In one of the discussion panels there were also several articles discussed on ho
 
 So how can a running conference apply to any of my non-running patients?  I was able to have the opportunity to discuss with one of my non-runner patients this week regarding her osteopenia diagnosis and share with her the research regarding lifting heavy, proper nutrition, and point her to the direction of current practice guidelines^9.  She told me how her medical doctors have been managing the hormone and nutrient deficits aspect of her care, but no one had specifically talked her through how to go about physical activity and proper heavy loading for bone health.  I am grateful to have recently been exposed to topics regarding bone health which allowed me to give her the opportunity to feel confident in her ability to go about physical activity and overall better her health.  My time at the running summit was well worth it.
 
+---
 
 References
 1.	Heiderscheit BC, Chumanov ES, Michalski MP, Wille CM, Ryan MB. Effects of step rate manipulation on joint mechanics during running. Med Sci Sports Exerc. 2011;43(2):296-302. doi:10.1249/MSS.0b013e3181ebedf4
