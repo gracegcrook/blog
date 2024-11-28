@@ -11,4 +11,5 @@ I am thankful for:
 
 In this busy season may we reflect on our blessings.
 
-> ”Give thanks to the Lord, for he is good, for his steadfast love endures forever.“ ‭‭Psalm‬ ‭136‬:‭1‬ ‭ESV
+> ”Give thanks to the Lord, for he is good, for his steadfast love endures forever.“
+> Psalm‬ ‭136‬:‭1‬ ‭ESV
