@@ -4,10 +4,10 @@ title: Happy Thanksgiving!
 ---
 
 I am thankful for:
-A loving family to be apart of
-Supportive friends
-A healthy body
-A job I love 
+- A loving family to be apart of
+- Supportive friends
+- A healthy body
+- A job I love 
 
 In this busy season may we reflect on our blessings.
 
