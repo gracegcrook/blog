@@ -2,7 +2,7 @@
 layout: post
 title: Christmas Gift Guide 2024
 ---
-![Collage of Christmas gift ideas with title "Christmas '24"](/images/ChristmasGiftGuide-2024/ChristmasMoodBoard.png)
+![Collage of Christmas gift ideas with title "Christmas '24"](/images/ChristmasGiftGuide-2024/ChristmasMoodboard.png)
 
 Well, guess it's that time of the year.  I was hesitant in making a gift guide to post here on the blog because I don't want to promote consumerism and would hate to shadow the true meaning of Christmas and this holiday season (our savior Jesus being born).  I finally settled on making one as gifts are one of my love languages and have always been a favorite post to read.  Because I am into fitness, many of these lean that way, but I do have some ideas that will work for those in fitness and those not.
 
