@@ -19,7 +19,7 @@ Speaking of the Tetons, me and two of my close PT friends were able to make it o
 ![Three girls and a dog sitting around a campfire at dusk.](/images/LifeLately-2025/PodcastTetons.png)
 
 ![Girl smiling with snow covered Teton range in the background.](/images/LifeLately-2025/AngePicGraceTetons.png)
-(pic by my friend, Ange.  Check out her [portfolio!](https://angangeangie.myportfolio.com/usa-travel)
+(pic by my friend, Ange.)  Check out her [portfolio!](https://angangeangie.myportfolio.com/usa-travel)
 
 It was a much needed camp weekend.  Only thing that could have been better is if I didn't burn 2 quarter sized holes in my Patagonia puffer. (Update: Patagonia repaired this as it was covered under warranty :)
 
