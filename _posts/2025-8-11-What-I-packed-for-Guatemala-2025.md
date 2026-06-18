@@ -1,0 +1,58 @@
+---
+layout: post
+title: What I packed for Guatemala 2025
+---
+I have the wonder opportunity to go back to Guatemala with my PT ala-mater and help lead 15 3rd year PT students on a two week trip.  We will be having multiple clinic days giving free PT services and also helping build houses.  When I was a 3rd year PT student I also went on this trip and it is still one of the best things I was able to experience while in school.  Below is a list of what I will be bringing based roughly on what I brought when I went as a student and also what I think I'll need this time as a leader.  We have access to laundry services about halfway through the trip and I remember wearing about 2 outfits  day depending if we were in clinic or house building in the morning.
+
+- Passport
+- Bug spray 
+- eSIM 
+- Dramamine
+- Anti-diarrheal
+- Benadryl
+- DayQuil/NyQuil
+- TheraFlu
+- Ginger candy
+- Gum
+- Electrolytes 
+- Face masks for concrete mixing
+- Charger for phone and watch 
+- Kula cloth
+- Hair brush
+- Headlamp 
+- Snacks
+- Garden gloves for house building
+- Lotion
+- Sunblock
+- Feminine products
+- Toothbrush
+- Conditioner 
+- Toothpaste
+- Hair ties 
+- Contact solution/case
+- Deodorant 
+- Shampoo
+- Floss
+- Face wash
+- Wet wipes
+- Towel 
+- Cross body 
+- Rain coat
+- Hat
+- 1 “nice” bottom
+- Sleep clothes
+- Light zip jacket
+- 1 travel bottom (joggers)
+- 1 exercise shirt for exploring 
+- Scrub bottoms (3)
+- Tennis shoes (toss later)
+- Shower shoes (double with sandal)
+- Waterproof sandals
+- Tennis shoes not throw away
+- 2 “nice” shirts
+- Scrub tops/shirts don’t mind dirty (3)
+- Sweatshirt 
+- 2 bras
+- 3 sports bras
+- 6 socks
+- 10 underwear
