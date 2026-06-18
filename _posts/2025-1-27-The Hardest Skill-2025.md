@@ -2,7 +2,7 @@
 layout: post
 title: The Hardest Skill
 ---
-![Side view of a girl in a pink snowsuit sitting on a ski lift heading up the mountain](/images/TheHardestSkill-2025/Snowboardliftside.jpg)
+[Side view of a girl in a pink snowsuit sitting on a ski lift heading up the mountain](/images/TheHardestSkill-2025/Snowboardliftside.jpg)
 
 As the title implies, I am writing about the hardest physical skill I have learned thus far in my life, which is snowboarding.  I started snowboarding last season (currently in season number 2) and have been humbled by the amount of effort it has taken, without having much to show for it.  I would not say I am the most athletic person; however, I never was the *worst* at any physical skill I learned, even if I was not *great.*  That is, until snowboarding.  
 
